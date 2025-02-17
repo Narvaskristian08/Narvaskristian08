@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on dolce vita<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning back end and dsa <br>⚡ Fun fact : im still 2nd year college
+🔭 I’m currently working on Web Development and Back-end Development
+<br>
+🤝 I’m looking for help with web development<br>
+🌱 I’m currently learning back end and dsa <br>
+⚡ Fun fact : Did you know all the stars is actually a sun
 
 
 # 💻 Tech Stack:
