@@ -3,7 +3,7 @@
 <br>
 🤝 I’m looking for help with web development<br>
 🌱 I’m currently learning back end and dsa <br>
-⚡ Fun fact : Did you know all the stars is actually a sun
+⚡ Fun fact : Im BatMan
 
 
 # 💻 Tech Stack:
