@@ -1,9 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development and Back-end Development
-<br>
-🤝 I’m looking for help with web development<br>
-🌱 I’m currently learning back end and dsa <br>
-⚡ Fun fact : Im BatMan
+🔭 Currently Working in project with AIs
+
 
 
 # 💻 Tech Stack:
