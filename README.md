@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Kristian Narvas also known as LazySi and I'm an Aspiring Ai Engineer from Phillipines.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Kristian Narvas also known as LazyShi and I'm an Aspiring Ai Engineer from Phillipines.</h2>
 
 
  <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZmN3JybGIyeTNoN2x2eWY4N2VyM2hoYmY1MnRtY2Y5aDNrYnRveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XOijEXIPqGCC4M1w1F/giphy.gif"  />
